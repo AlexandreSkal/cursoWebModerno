@@ -1,44 +1,46 @@
 # cursoWebModerno
-Curso Udemy Leandro Moura Leitão Web Moderno
+<h1>Curso Udemy Leandro Moura Leitão Web Moderno</h1>
 
-O Curso é separado por pastas, cada pasta representa um módulo do curso.
-Curso muito completo, indico para todos que estão iniciando nessa área, segue link para quem tiver interesse:
-https://www.udemy.com/course/curso-web/
+O Curso é separado por pastas, cada pasta representa um módulo do curso.<br>
+Curso muito completo, indico para todos que estão iniciando nessa área, segue link para quem tiver interesse:<br>
+<a>https://www.udemy.com/course/curso-web/</a>
 
-Há um total de 36 módulos, segue a lista de todos:
-Seção 1:Introdução Curso Desenvolvimento Web
-Seção 2:Configuração do Ambiente
-Seção 3:Javascript: Fundamentos
-Seção 4:Javascript: Estruturas de Controle
-Seção 5:Javascript: Função
-Seção 6:Javascript: Objeto
-Seção 7:Javascript: Array
-Seção 8:Node
-Seção 9:ESNext
-Seção 10:Conceitos sobre Web
-Seção 11:HTML
-Seção 12:CSS
-Seção 13:Integrando HTML, CSS e JS
-Seção 14:Ajax
-Seção 15:Gulp
-Seção 16:Webpack
-Seção 17:jQuery
-Seção 18:Bootstrap
-Seção 19:Projeto Galeria (Bootstrap/jQuery/Webpack)
-Seção 20:React
-Seção 21:Projeto Calculadora
-Seção 22:Projeto Cadastro de Usuário
-Seção 23:VueJS
-Seção 24:Projetos VueJS
-Seção 25:Projeto Calculadora (Vue)
-Seção 26:Projeto Monty Hall (Vue)
-Seção 27:Aplicação Desktop com JavaScript, Electron JS e Vue JS
-Seção 28:Angular 9
-Seção 29:Banco Relacional
-Seção 30:Banco Não Relacional
-Seção 31:Express
-Seção 32:Projeto Base de Conhecimento • Backend
-Seção 33:Projeto Base de Conhecimento • Frontend
-Seção 34:Publicando uma Aplicação VueJS na Amazon
-Seção 35:Conclusão Curso Desenvolvimento Web
-Seção 36:Gulp - Versão 3
+Há um total de 36 módulos, segue a lista de todos: <br>
+<ol>
+<li>Introdução Curso Desenvolvimento Web</li>
+<li>Configuração do Ambiente</li>
+<li>Javascript: Fundamentos</li>
+<li>Javascript: Estruturas de Controle</li>
+<li>Javascript: Função</li>
+<li>Javascript: Objeto</li>
+<li>Javascript: Array</li>
+<li>Node</li>
+<li>ESNext</li>
+<li>Conceitos sobre Web</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Integrando HTML, CSS e JS</li>
+<li>Ajax</li>
+<li>Gulp</li>
+<li>Webpack</li>
+<li>jQuery</li>
+<li>Bootstrap</li>
+<li>Projeto Galeria (Bootstrap/jQuery/Webpack)</li>
+<li>React</li>
+<li>Projeto Calculadora</li>
+<li>Projeto Cadastro de Usuário</li>
+<li>VueJS</li>
+<li>Projetos VueJS</li>
+<li>Projeto Calculadora (Vue)</li>
+<li>Projeto Monty Hall (Vue)</li>
+<li>Aplicação Desktop com JavaScript, Electron JS e Vue JS</li>
+<li>Angular 9</li>
+<li>Banco Relacional</li>
+<li>Banco Não Relacional</li>
+<li>Express</li>
+<li>Projeto Base de Conhecimento • Backend</li>
+<li>Projeto Base de Conhecimento • Frontend</li>
+<li>Publicando uma Aplicação VueJS na Amazon</li>
+<li>Conclusão Curso Desenvolvimento Web</li>
+<li>Gulp - Versão 3</li>
+</>
