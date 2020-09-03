@@ -5,7 +5,7 @@ O Curso é separado por pastas, cada pasta representa um módulo do curso.<br>
 Curso muito completo, indico para todos que estão iniciando nessa área, segue link para quem tiver interesse:<br>
 <a>https://www.udemy.com/course/curso-web/</a>
 
-Há um total de 36 módulos, segue a lista de todos: <br>
+# Há um total de 36 módulos, segue a lista de todos: <br>
 <ol>
 <li>Introdução Curso Desenvolvimento Web</li>
 <li>Configuração do Ambiente</li>
